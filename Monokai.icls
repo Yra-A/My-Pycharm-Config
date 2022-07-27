@@ -1,9 +1,9 @@
 <scheme name="Monokai" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-07-27T08:23:11</property>
+    <property name="created">2022-07-27T14:05:17</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2022-07-27T08:23:46</property>
+    <property name="modified">2022-07-27T14:05:33</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <colors>
@@ -15,7 +15,7 @@
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
     <option name="SELECTED_INDENT_GUIDE" value="464741" />
     <option name="SELECTION_BACKGROUND" value="575959" />
-    <option name="WHITESPACES" value="464741" />
+    <option name="WHITESPACES" value="3c3f41" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
