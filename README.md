@@ -1,1 +1,1 @@
-# My-Pycharm-Config
+# MyConfig
